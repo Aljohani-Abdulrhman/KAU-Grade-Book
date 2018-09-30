@@ -1,0 +1,2 @@
+# KAU-Grade-Book
+For this program, you will implement a basic grade book. You will use File I/O to read input from a file and then print the output to a file. To be clear, you will read COMMANDS from an input file. Example commands are ADDRECORD, SEARCHBYID, etc. Then, depending on the command, you will either add a student record, search for a student, display results, etc. But instead of printing to the console window (screen), you will print to an output file.
